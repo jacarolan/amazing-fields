@@ -4,9 +4,6 @@
 #include <utility>
 
 #include "ofMain.h"
-#include "snake.h"
-#include "SnakeFood.h"
-#include "ll.h"
 
 namespace af {
 
